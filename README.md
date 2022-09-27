@@ -1,2 +1,1 @@
-# devineni
-siva sir-sir
+Automating ASp .net core application to AWS ecs Fargate 
